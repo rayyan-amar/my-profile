@@ -1,0 +1,38 @@
+/* Colors and font */
+
+body {
+	background: whitesmoke;
+	color: black;
+	font-family: 'PT Serif', serif;
+	font-size: 25px;
+}
+
+h1{
+	color: black;
+	font-size: 37px;
+}
+
+h1, h2{
+	font-family: 'playfair Display', serif;
+}
+
+p{
+	color: black;
+}
+
+img{
+	width: 150px;
+}
+
+img{
+	border-radius: 50%;
+	border: 2px solid black;
+}
+
+div{
+	background: orange;
+	padding: 60px;
+	margin: 20px;
+	box-shadow: 0px 10px 15px rgba(0, 0, 0, 0.3);
+	border-radius: 5px;
+}
